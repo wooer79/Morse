@@ -124,160 +124,223 @@ public interface Abbreviation {
 	 */
 	public final static String GD = "--./-..";
 	/**
-	 * 
+	 * Laughter（笑，笑声）
 	 */
-	public final static String HI = "";
+	public final static String HI = "..../..";
 	/**
-	 * 
+	 * here（这里）
 	 */
-	public final static String HR = "";
+	public final static String HR = "..../.-.";
 	/**
-	 * 
+	 * have（有）
 	 */
-	public final static String HV = "";
+	public final static String HV = "..../...-";
 	/**
-	 * 
+	 * poor operator（可怜的运营商）
 	 */
-	public final static String LID = "";
+	public final static String LID = ".-../../-..";
 	/**
-	 * 
+	 * millamperes（毫安）
 	 */
-	public final static String MILS = "";
+	public final static String MILS = "--/../.-../...";
 	/**
-	 * 
+	 * nothing（无）
 	 */
-	public final static String NIL = "";
+	public final static String NIL = "-./../.-..";
 	/**
-	 * 
+	 * number（编号）
 	 */
-	public final static String NR = "";
+	public final static String NR = "-./.-.";
 	/**
-	 * 
+	 * old boy（老男孩）
 	 */
-	public final static String OB = "";
+	public final static String OB = "---/-...";
 	/**
-	 * 
+	 * old chap（老兄）
 	 */
-	public final static String OC = "";
+	public final static String OC = "---/-.-.";
 	/**
-	 * 
+	 * old man（任何男性业余无线电操作员）
 	 */
-	public final static String OM = "";
+	public final static String OM = "---/--";
 	/**
-	 * 
+	 * offical observer(官方观察员）
 	 */
-	public final static String OP = "";
+	public final static String OO = "---/---";
 	/**
-	 * 
+	 * operator（操作员）
 	 */
-	public final static String OT = "";
+	public final static String OP = "---/.--.";
 	/**
-	 * 
+	 * old timer（老手）
 	 */
-	public final static String OTC = "";
+	public final static String OT = "---/-";
 	/**
-	 * 
+	 * old timer club（老前辈俱乐部）
 	 */
-	public final static String OOTC = "";
+	public final static String OTC = "---/-/-.-.";
 	/**
-	 * 
+	 * old old timers club（老老前辈俱乐部）
 	 */
-	public final static String PSE = "";
+	public final static String OOTC = "---/---/-/-.-.";
 	/**
-	 * 
+	 * please（请）
 	 */
-	public final static String PWR = "";
+	public final static String PSE = ".--./.../.";
 	/**
-	 * 
+	 * power（功率）
 	 */
-	public final static String QCWA = "";
+	public final static String PWR = ".--./.--/.-.";
 	/**
-	 * 
+	 * quarter century wireless association（四分之一世纪无线协会）
 	 */
-	public final static String RI = "";
+	public final static String QCWA = "--.-/-.-./.--/.-";
 	/**
-	 * 
+	 * acknowledge or decimal point（承认或小数点）
 	 */
-	public final static String RCVR = "";
+	public final static String RI = ".-./..";
 	/**
-	 * 
+	 * receiver（接收）
 	 */
-	public final static String RPT = "";
+	public final static String RCVR = ".-./-.-./...-/.-.";
 	/**
-	 * 
+	 * repeat or report （重复或报告）
 	 */
-	public final static String RST = "";
+	public final static String RPT = ".-./.--./-";
 	/**
-	 * 
+	 * signal report format（收讯指标）
 	 */
-	public final static String RTTY = "";
+	public final static String RST = ".-./.../-";
 	/**
-	 * 
+	 * radio teletype（无线电电传）
 	 */
-	public final static String RX = "";
+	public final static String RTTY = ".-./-/-/-.--";
 	/**
-	 * 
+	 * receiver（接收）
 	 */
-	public final static String SAE = "";
+	public final static String RX = ".-./-..-";
 	/**
-	 * 
+	 * self addressed envelope（自我处理的信封）
 	 */
-	public final static String SASE = "";
+	public final static String SAE = ".../.-/.";
 	/**
-	 * 
+	 * self addressed， stamped envelope（自我解决，盖章信封）
 	 */
-	public final static String SED = "";
+	public final static String SASE = ".../.-/.../.";
 	/**
-	 * 
+	 * said（说）
 	 */
-	public final static String SEZ = "";
+	public final static String SED = "..././-..";
 	/**
-	 * 
+	 * says（说）
 	 */
-	public final static String SIG = "";
+	public final static String SEZ = "..././--..";
 	/**
-	 * 
+	 * signal（讯号）
 	 */
-	public final static String SIGS = "";
+	public final static String SIG = ".../../--.";
 	/**
-	 * 
+	 * signals（信号）
 	 */
-	public final static String SKED = "";
+	public final static String SIGS = ".../../--./...";
 	/**
-	 * 
+	 * schedule（行程）
 	 */
-	public final static String SN = "";
+	public final static String SKED = ".../-.-/./-..";
 	/**
-	 * 
+	 * soon（很快）
 	 */
-	public final static String SOS = "";
+	public final static String SN = ".../-.";
 	/**
-	 * 
+	 * 紧急呼救
 	 */
-	public final static String SRI = "";
+	public final static String SOS = ".../---/...";
 	/**
-	 * 
+	 * sorry（抱歉）
 	 */
-	public final static String STN = "";
+	public final static String SRI = ".../.-./..";
 	/**
-	 * 
+	 * station（电台）
 	 */
-	public final static String  = "";
+	public final static String STN = ".../-/-.";
 	/**
-	 * 
+	 * temperature（气温）
 	 */
-	public final static String B = "";
+	public final static String  TEMP= "-/./--/.--.";
 	/**
-	 * 
+	 * tomorrow（明日）
 	 */
-	public final static String B = "";
+	public final static String TMW = "-/--/.--";
 	/**
-	 * 
+	 * thanks（感谢）
 	 */
-	public final static String B = "";
-	
+	public final static String TNX = "-/-./-..-";
 	/**
-	 * 
+	 * thank you（谢谢你）
 	 */
-	public final static String B = "";
+	public final static String TU = "-/..-";
+	/**
+	 * transmit（发射器）
+	 */
+	public final static String TX = "-/-..-";
+	/**
+	 * you（你）
+	 */
+	public final static String U = "..-";
+	/**
+	 * your or you're（您或者您已经）
+	 */
+	public final static String UR = "..-/.-.";
+	/**
+	 * yours(你的）
+	 */
+	public final static String URS = "..-/.-./...";
+	/**
+	 * very（非常）
+	 */
+	public final static String VY = "...-/-.--";
+	/**
+	 * Words（词）
+	 */
+	public final static String WDS = ".--/-../...";
+	/**
+	 * worked（工作）
+	 */
+	public final static String WKD = ".--/-.-/-..";
+	/**
+	 * will（将）
+	 */
+	public final static String WL = ".--/.-..";
+	/**
+	 * would（会）
+	 */
+	public final static String WUD = ".--/..-/-..";
+	/**
+	 * weather（天气）
+	 */
+	public final static String WX = ".--/-..-";
+	/**
+	 * transmitter（发射机）
+	 */
+	public final static String XMTR = "-..-/--/-/.-.";
+	/**
+	 * Wife（妻子）
+	 */
+	public final static String XYL = "-..-/-.--/.-..";
+	/**
+	 * young lady（年轻女子）
+	 */
+	public final static String YL = "-.--/.-..";
+	/**
+	 * best regards（最好的祝福）
+	 */
+	public final static String NUM_73 = "--.../...--";
+	/**
+	 * Love and kisses（爱与吻之告别，使用在异性之间）
+	 */
+	public final static String NUM_88 = "---../---..";
+	/**
+	 * go away（被要求离开，非友善）
+	 */
+	public final static String NUM_99 = "----./----.";
 }
