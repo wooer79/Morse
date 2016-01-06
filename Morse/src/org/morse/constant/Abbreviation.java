@@ -1,5 +1,6 @@
 package org.morse.constant;
 
+//
 public interface Abbreviation {
 	/**
 	 * all after 问号后用于请求重复
