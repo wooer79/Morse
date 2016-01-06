@@ -122,4 +122,161 @@ public interface Abbreviation {
 	 * Good （好）
 	 */
 	public final static String GD = "--./-..";
+	/**
+	 * 
+	 */
+	public final static String HI = "";
+	/**
+	 * 
+	 */
+	public final static String HR = "";
+	/**
+	 * 
+	 */
+	public final static String HV = "";
+	/**
+	 * 
+	 */
+	public final static String LID = "";
+	/**
+	 * 
+	 */
+	public final static String MILS = "";
+	/**
+	 * 
+	 */
+	public final static String NIL = "";
+	/**
+	 * 
+	 */
+	public final static String NR = "";
+	/**
+	 * 
+	 */
+	public final static String OB = "";
+	/**
+	 * 
+	 */
+	public final static String OC = "";
+	/**
+	 * 
+	 */
+	public final static String OM = "";
+	/**
+	 * 
+	 */
+	public final static String OP = "";
+	/**
+	 * 
+	 */
+	public final static String OT = "";
+	/**
+	 * 
+	 */
+	public final static String OTC = "";
+	/**
+	 * 
+	 */
+	public final static String OOTC = "";
+	/**
+	 * 
+	 */
+	public final static String PSE = "";
+	/**
+	 * 
+	 */
+	public final static String PWR = "";
+	/**
+	 * 
+	 */
+	public final static String QCWA = "";
+	/**
+	 * 
+	 */
+	public final static String RI = "";
+	/**
+	 * 
+	 */
+	public final static String RCVR = "";
+	/**
+	 * 
+	 */
+	public final static String RPT = "";
+	/**
+	 * 
+	 */
+	public final static String RST = "";
+	/**
+	 * 
+	 */
+	public final static String RTTY = "";
+	/**
+	 * 
+	 */
+	public final static String RX = "";
+	/**
+	 * 
+	 */
+	public final static String SAE = "";
+	/**
+	 * 
+	 */
+	public final static String SASE = "";
+	/**
+	 * 
+	 */
+	public final static String SED = "";
+	/**
+	 * 
+	 */
+	public final static String SEZ = "";
+	/**
+	 * 
+	 */
+	public final static String SIG = "";
+	/**
+	 * 
+	 */
+	public final static String SIGS = "";
+	/**
+	 * 
+	 */
+	public final static String SKED = "";
+	/**
+	 * 
+	 */
+	public final static String SN = "";
+	/**
+	 * 
+	 */
+	public final static String SOS = "";
+	/**
+	 * 
+	 */
+	public final static String SRI = "";
+	/**
+	 * 
+	 */
+	public final static String STN = "";
+	/**
+	 * 
+	 */
+	public final static String  = "";
+	/**
+	 * 
+	 */
+	public final static String B = "";
+	/**
+	 * 
+	 */
+	public final static String B = "";
+	/**
+	 * 
+	 */
+	public final static String B = "";
+	
+	/**
+	 * 
+	 */
+	public final static String B = "";
 }
