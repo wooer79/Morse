@@ -1,5 +1,9 @@
 <resources>
 
     <string name="app_name">Morse</string>
-
+	<string name="please_input_morse">请输入摩斯码</string>
+	<string name="please_input_english">请输入英文</string>
+	<string name="tranlate_to_english">转换成英文</string>
+	<string name="tranlate_to_morse">转换成摩斯</string>
+	<string name="delete_all">清空</string>
 </resources>
