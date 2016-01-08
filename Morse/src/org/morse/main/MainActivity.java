@@ -1,6 +1,7 @@
 package org.morse.main;
 
 import org.morse.constant.Event;
+import org.morse.database.DBManager;
 
 import com.ggy.morse.R;
 
@@ -22,6 +23,7 @@ public class MainActivity extends Activity {
 	private EditText morse_edittext,//摩斯码编辑框
 	                 english_edittext;//英文编辑框
 	
+	
 	/**
 	 * 初始化控件
 	 */
@@ -42,6 +44,7 @@ public class MainActivity extends Activity {
 	private void init(){
 		mainActivity = this;
 		initWidget();
+		DBManager.getInstance(getApplicationContext());
 	}
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {

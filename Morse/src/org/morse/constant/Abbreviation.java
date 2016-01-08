@@ -1,7 +1,7 @@
 package org.morse.constant;
 
 //
-public interface Abbreviation {
+public class Abbreviation {
 	/**
 	 * all after 问号后用于请求重复
 	 */
@@ -343,4 +343,261 @@ public interface Abbreviation {
 	 * go away（被要求离开，非友善）
 	 */
 	public final static String NUM_99 = "----./----.";
+	public static String getA() {
+		return A;
+	}
+	public static String getAb() {
+		return AB;
+	}
+	public static String getArrl() {
+		return ARRL;
+	}
+	public static String getAbt() {
+		return ABT;
+	}
+	public static String getAds() {
+		return ADS;
+	}
+	public static String getAgn() {
+		return AGN;
+	}
+	public static String getAnt() {
+		return ANT;
+	}
+	public static String getBn() {
+		return BN;
+	}
+	public static String getBug() {
+		return BUG;
+	}
+	public static String getC() {
+		return C;
+	}
+	public static String getCba() {
+		return CBA;
+	}
+	public static String getCfm() {
+		return CFM;
+	}
+	public static String getClg() {
+		return CLG;
+	}
+	public static String getCq() {
+		return CQ;
+	}
+	public static String getCul() {
+		return CUL;
+	}
+	public static String getCuz() {
+		return CUZ;
+	}
+	public static String getCw() {
+		return CW;
+	}
+	public static String getCx() {
+		return CX;
+	}
+	public static String getDe() {
+		return DE;
+	}
+	public static String getDx() {
+		return DX;
+	}
+	public static String getEs() {
+		return ES;
+	}
+	public static String getFb() {
+		return FB;
+	}
+	public static String getFcc() {
+		return FCC;
+	}
+	public static String getFer() {
+		return FER;
+	}
+	public static String getFreq() {
+		return FREQ;
+	}
+	public static String getGa() {
+		return GA;
+	}
+	public static String getGe() {
+		return GE;
+	}
+	public static String getGm() {
+		return GM;
+	}
+	public static String getGnd() {
+		return GND;
+	}
+	public static String getGd() {
+		return GD;
+	}
+	public static String getHi() {
+		return HI;
+	}
+	public static String getHr() {
+		return HR;
+	}
+	public static String getHv() {
+		return HV;
+	}
+	public static String getLid() {
+		return LID;
+	}
+	public static String getMils() {
+		return MILS;
+	}
+	public static String getNil() {
+		return NIL;
+	}
+	public static String getNr() {
+		return NR;
+	}
+	public static String getOb() {
+		return OB;
+	}
+	public static String getOc() {
+		return OC;
+	}
+	public static String getOm() {
+		return OM;
+	}
+	public static String getOo() {
+		return OO;
+	}
+	public static String getOp() {
+		return OP;
+	}
+	public static String getOt() {
+		return OT;
+	}
+	public static String getOtc() {
+		return OTC;
+	}
+	public static String getOotc() {
+		return OOTC;
+	}
+	public static String getPse() {
+		return PSE;
+	}
+	public static String getPwr() {
+		return PWR;
+	}
+	public static String getQcwa() {
+		return QCWA;
+	}
+	public static String getRi() {
+		return RI;
+	}
+	public static String getRcvr() {
+		return RCVR;
+	}
+	public static String getRpt() {
+		return RPT;
+	}
+	public static String getRst() {
+		return RST;
+	}
+	public static String getRtty() {
+		return RTTY;
+	}
+	public static String getRx() {
+		return RX;
+	}
+	public static String getSae() {
+		return SAE;
+	}
+	public static String getSase() {
+		return SASE;
+	}
+	public static String getSed() {
+		return SED;
+	}
+	public static String getSez() {
+		return SEZ;
+	}
+	public static String getSig() {
+		return SIG;
+	}
+	public static String getSigs() {
+		return SIGS;
+	}
+	public static String getSked() {
+		return SKED;
+	}
+	public static String getSn() {
+		return SN;
+	}
+	public static String getSos() {
+		return SOS;
+	}
+	public static String getSri() {
+		return SRI;
+	}
+	public static String getStn() {
+		return STN;
+	}
+	public static String getTemp() {
+		return TEMP;
+	}
+	public static String getTmw() {
+		return TMW;
+	}
+	public static String getTnx() {
+		return TNX;
+	}
+	public static String getTu() {
+		return TU;
+	}
+	public static String getTx() {
+		return TX;
+	}
+	public static String getU() {
+		return U;
+	}
+	public static String getUr() {
+		return UR;
+	}
+	public static String getUrs() {
+		return URS;
+	}
+	public static String getVy() {
+		return VY;
+	}
+	public static String getWds() {
+		return WDS;
+	}
+	public static String getWkd() {
+		return WKD;
+	}
+	public static String getWl() {
+		return WL;
+	}
+	public static String getWud() {
+		return WUD;
+	}
+	public static String getWx() {
+		return WX;
+	}
+	public static String getXmtr() {
+		return XMTR;
+	}
+	public static String getXyl() {
+		return XYL;
+	}
+	public static String getYl() {
+		return YL;
+	}
+	public static String getNum73() {
+		return NUM_73;
+	}
+	public static String getNum88() {
+		return NUM_88;
+	}
+	public static String getNum99() {
+		return NUM_99;
+	}
+	
+	
 }

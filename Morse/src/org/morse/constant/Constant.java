@@ -1,6 +1,6 @@
 package org.morse.constant;
 
-public interface Constant {
+public class Constant {
 	//
 	public static final String A = ".-";
 	public static final String B = "-...";
@@ -110,5 +110,169 @@ public interface Constant {
 	 * +
 	 */
 	public static final String PLUS = ".-.-.";
+	public static String getA() {
+		return A;
+	}
+	public static String getB() {
+		return B;
+	}
+	public static String getC() {
+		return C;
+	}
+	public static String getD() {
+		return D;
+	}
+	public static String getE() {
+		return E;
+	}
+	public static String getF() {
+		return F;
+	}
+	public static String getG() {
+		return G;
+	}
+	public static String getH() {
+		return H;
+	}
+	public static String getI() {
+		return I;
+	}
+	public static String getJ() {
+		return J;
+	}
+	public static String getK() {
+		return K;
+	}
+	public static String getL() {
+		return L;
+	}
+	public static String getM() {
+		return M;
+	}
+	public static String getN() {
+		return N;
+	}
+	public static String getO() {
+		return O;
+	}
+	public static String getP() {
+		return P;
+	}
+	public static String getQ() {
+		return Q;
+	}
+	public static String getR() {
+		return R;
+	}
+	public static String getS() {
+		return S;
+	}
+	public static String getT() {
+		return T;
+	}
+	public static String getU() {
+		return U;
+	}
+	public static String getV() {
+		return V;
+	}
+	public static String getW() {
+		return W;
+	}
+	public static String getX() {
+		return X;
+	}
+	public static String getY() {
+		return Y;
+	}
+	public static String getZ() {
+		return Z;
+	}
+	public static String getNum1() {
+		return NUM_1;
+	}
+	public static String getNum2() {
+		return NUM_2;
+	}
+	public static String getNum3() {
+		return NUM_3;
+	}
+	public static String getNum4() {
+		return NUM_4;
+	}
+	public static String getNum5() {
+		return NUM_5;
+	}
+	public static String getNum6() {
+		return NUM_6;
+	}
+	public static String getNum7() {
+		return NUM_7;
+	}
+	public static String getNum8() {
+		return NUM_8;
+	}
+	public static String getNum9() {
+		return NUM_9;
+	}
+	public static String getNum0() {
+		return NUM_0;
+	}
+	public static String getPeriod() {
+		return PERIOD;
+	}
+	public static String getColon() {
+		return COLON;
+	}
+	public static String getComma() {
+		return COMMA;
+	}
+	public static String getSemicolon() {
+		return SEMICOLON;
+	}
+	public static String getQuestionMask() {
+		return QUESTION_MASK;
+	}
+	public static String getEqualSign() {
+		return EQUAL_SIGN;
+	}
+	public static String getSingleQuote() {
+		return SINGLE_QUOTE;
+	}
+	public static String getOblique() {
+		return OBLIQUE;
+	}
+	public static String getExclamationPoint() {
+		return EXCLAMATION_POINT;
+	}
+	public static String getDash() {
+		return DASH;
+	}
+	public static String getUnderscore() {
+		return UNDERSCORE;
+	}
+	public static String getQuote() {
+		return QUOTE;
+	}
+	public static String getOpenParen() {
+		return OPEN_PAREN;
+	}
+	public static String getCloseParen() {
+		return CLOSE_PAREN;
+	}
+	public static String getDollarSign() {
+		return DOLLAR_SIGN;
+	}
+	public static String getAtSign() {
+		return AT_SIGN;
+	}
+	public static String getAnd() {
+		return AND;
+	}
+	public static String getPlus() {
+		return PLUS;
+	}
+	
+	
 	
 }
